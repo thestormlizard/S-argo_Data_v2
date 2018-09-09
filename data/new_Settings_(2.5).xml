@@ -22,7 +22,7 @@
     <BotSettings>
         <Token>YOUR_BOT_TOKEN_HERE</Token>
         <NoGUI>true</NoGUI>
-        <GitHubDataRepository>https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/</GitHubDataRepository>
+        <GitHubDataRepository>https://github.com/thestormlizard/S-argo_Data_v2/master/</GitHubDataRepository>
         <BotOwnerID>BOT_OWNER_DISCORD_ID_HERE</BotOwnerID>
     </BotSettings>
 
