@@ -2362,4 +2362,22 @@
         <Weapon name="Fragrant Olive Treasured Sword" rarity="4"/>
         <Weapon name="Blue Rose Treasured Sword" rarity="4"/>
     </Banner>
+	
+    <Banner id="145">
+        <name>The Crossover World - Timeless Bond</name>
+        <type>17</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Ultrafast Dualblades" char="Kirito" rarity="6"/>
+        <Character prefix="Linked to the Future" char="Asuna" rarity="6"/>
+        <Character prefix="Great Fragrant Olive Tree" char="Alice" rarity="6"/>
+        <Character prefix="Blue Rose in Full Glory" char="Eugeo" rarity="6"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Innovator x Evil Punisher" rarity="4"/>
+        <Weapon name="Glaring Light" rarity="4"/>
+        <Weapon name="Fragrant Olive Treasured Sword" rarity="4"/>
+        <Weapon name="Blue Rose Treasured Sword" rarity="4"/>
+    </Banner>
 </banners>
